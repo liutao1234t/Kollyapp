@@ -1,0 +1,204 @@
+{
+  "appCore": {
+    "appName": "Lash Studio",
+    "theme": "eyelash_style_detail",
+    "mainScene": "lash_detail",
+    "defaultLanguage": "en-US"
+  },
+  "uiTheme": {
+    "background": "warm_ivory",
+    "primaryAccent": "rose_pink",
+    "secondaryAccent": "soft_gold",
+    "buttonGradient": [
+      "hot_pink",
+      "champagne_gold"
+    ]
+  },
+  "topImage": {
+    "imageId": "lash_hollow_universe_cover",
+    "displayMode": "full_width_header",
+    "heightRatio": 0.38,
+    "cornerStyle": "none"
+  },
+  "navigationBar": {
+    "backButton": true,
+    "moreButton": true,
+    "favoriteButton": true,
+    "buttonStyle": "translucent_circle"
+  },
+  "styleInfo": {
+    "styleId": "lash_hollow_universe_001",
+    "styleName": "renjiyanzhen",
+    "category": "dramatic_lash",
+    "lookMood": "night_glam"
+  },
+  "attributeGrid": {
+    "columns": 2,
+    "cardCornerRadius": 18,
+    "cardShadow": true,
+    "iconColor": "rose_pink"
+  },
+  "materialInfo": {
+    "label": "MATERIAL",
+    "value": "Premium Silk",
+    "description": "Soft, lightweight, and suitable for a smooth lash finish."
+  },
+  "lengthInfo": {
+    "label": "LENGTHS",
+    "value": "12mm - 15mm",
+    "rangeStart": 12,
+    "rangeEnd": 15
+  },
+  "curlInfo": {
+    "label": "CURL TYPE",
+    "value": "D-Curl Curve",
+    "curlLevel": "strong_lift",
+    "bestFor": "open_eye_effect"
+  },
+  "volumeInfo": {
+    "label": "VOLUME",
+    "value": "Medium Full",
+    "densityLevel": 4,
+    "dailyComfort": "medium"
+  },
+  "lashNotes": {
+    "title": "Lash Notes",
+    "text": "This look was designed for a dramatic yet effortless eye style with a luminous flutter effect.",
+    "tone": "editorial_beauty"
+  },
+  "artistCard": {
+    "artistId": "artist_luxe_lash",
+    "name": "Luxe Lash",
+    "location": "New York",
+    "rating": 4.9
+  },
+  "artistProfile": {
+    "avatar": "artist_luxe_avatar",
+    "verified": true,
+    "specialty": "Volume Lash Design",
+    "completedLooks": 328
+  },
+  "followState": {
+    "isFollowing": false,
+    "buttonText": "Follow",
+    "followerCount": 18400
+  },
+  "consultationButton": {
+    "text": "Consultation",
+    "enabled": true,
+    "action": "open_consultation_chat",
+    "style": "gradient_capsule"
+  },
+  "bookingOptions": {
+    "enabled": true,
+    "defaultService": "lash_consultation",
+    "estimatedDurationMinutes": 45,
+    "depositRequired": false
+  },
+  "priceInfo": {
+    "currency": "USD",
+    "startingPrice": 89,
+    "priceLabel": "From $89",
+    "showFinalPriceAfterConsult": true
+  },
+  "suitabilityTags": {
+    "eyeShape": [
+      "almond",
+      "round",
+      "deep_set"
+    ],
+    "occasion": [
+      "evening",
+      "party",
+      "photo_session"
+    ],
+    "styleLevel": "bold"
+  },
+  "careGuide": {
+    "aftercareTitle": "Aftercare Tips",
+    "tips": [
+      "Avoid water for the first few hours",
+      "Brush lashes gently each morning",
+      "Do not rub the eye area"
+    ]
+  },
+  "productList": {
+    "recommendedItems": [
+      "lash_brush",
+      "oil_free_cleanser",
+      "silk_sleep_mask"
+    ],
+    "optionalItems": [
+      "mini_fan",
+      "lash_sealant"
+    ]
+  },
+  "gallery": {
+    "coverImage": "lash_hollow_universe_cover",
+    "detailImages": [
+      "lash_side_view",
+      "lash_close_view",
+      "lash_before_after"
+    ],
+    "imageCount": 4
+  },
+  "similarStyles": {
+    "enabled": true,
+    "styleIds": [
+      "velvet_night_002",
+      "soft_cat_eye_003",
+      "moonlit_volume_004"
+    ]
+  },
+  "favoriteState": {
+    "isLiked": false,
+    "likeCount": 5600,
+    "savedFolder": "Dramatic Looks"
+  },
+  "shareSettings": {
+    "enabled": true,
+    "shareTitle": "Hollow Universe Lash Look",
+    "shareImage": "lash_hollow_universe_cover"
+  },
+  "commentSettings": {
+    "enabled": true,
+    "commentCount": 86,
+    "allowPhotoComment": false
+  },
+  "recommendationRules": {
+    "matchBy": [
+      "curl_type",
+      "volume",
+      "eye_shape",
+      "occasion"
+    ],
+    "priority": "visual_similarity",
+    "dailyRefresh": true
+  },
+  "consultationForm": {
+    "questions": [
+      "Preferred lash length",
+      "Eye sensitivity",
+      "Desired look"
+    ],
+    "photoUploadEnabled": true,
+    "maxPhotos": 3
+  },
+  "notificationSettings": {
+    "artistReplyAlert": true,
+    "bookingReminder": true,
+    "styleUpdateAlert": false
+  },
+  "displaySettings": {
+    "largeText": false,
+    "smoothScroll": true,
+    "hapticFeedback": true,
+    "imagePreload": true
+  },
+  "sessionState": {
+    "lastViewedStyleId": "lash_hollow_universe_001",
+    "lastScrollPercent": 0.62,
+    "openedFrom": "style_feed",
+    "viewDurationSeconds": 46
+  }
+}
